@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ibra/Documents/4 семестр/Алгоритмы и структуры/laba6
+# Install script for directory: /Users/ibra/Documents/GitHubTests/algoritms-and-structure-labs/laba7
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ibra/Documents/4 семестр/Алгоритмы и структуры/laba6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/ibra/Documents/GitHubTests/algoritms-and-structure-labs/laba7/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

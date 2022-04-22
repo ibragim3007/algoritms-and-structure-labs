@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__laba5Stack_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S"/Users/ibra/Documents/4 семестр/Алгоритмы и структуры/laba5Stack" -B"/Users/ibra/Documents/4 семестр/Алгоритмы и структуры/laba5Stack/cmake-build-debug"
+  command = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/ibra/Documents/GitHubTests/algoritms-and-structure-labs/laba6Stack -B/Users/ibra/Documents/GitHubTests/algoritms-and-structure-labs/laba6Stack/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

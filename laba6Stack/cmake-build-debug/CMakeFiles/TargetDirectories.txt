@@ -1,3 +1,3 @@
-/Users/ibra/Documents/4 семестр/Алгоритмы и структуры/laba5Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ibra/Documents/4 семестр/Алгоритмы и структуры/laba5Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ibra/Documents/4 семестр/Алгоритмы и структуры/laba5Stack/cmake-build-debug/CMakeFiles/laba5Stack.dir
+/Users/ibra/Documents/GitHubTests/algoritms-and-structure-labs/laba6Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ibra/Documents/GitHubTests/algoritms-and-structure-labs/laba6Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ibra/Documents/GitHubTests/algoritms-and-structure-labs/laba6Stack/cmake-build-debug/CMakeFiles/laba5Stack.dir
